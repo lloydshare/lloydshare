@@ -1,4 +1,4 @@
-# Lloyd Share 👋
+# Lloyd Share 
 
 **Hardware & Software Developer | Telecoms & Database Expert | High-Level Management**
 
