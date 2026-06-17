@@ -38,7 +38,7 @@ Now Iâ€™m combining that deep industry knowledge with hands-on maker projects â€
 
 ### Let's Connect
 
-- YouTube: [Lloyd Share](https://www.youtube.com/@lloydshare)  
+- YouTube: [Lloyd Share](https://www.youtube.com/@lloydtshare)  
 - GitHub: [github.com/lloydshare](https://github.com/lloydshare)
 
 ---
