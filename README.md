@@ -4,12 +4,14 @@
 
 Over **30 years** building, managing, and optimizing complex technology systems — from enterprise telecom networks and large-scale databases to cutting-edge AI in financial services sector.
 
+Now I’m combining that deep industry knowledge with hands-on maker projects — building weird, powerful, and budget-friendly systems.
+
 ---
 
 ### Current Projects
 
 - **[AGX Oberon](https://github.com/lloydshare/AGX-Oberon)**  
-  A mad-scientist budget AI/Gaming workstation built from PS5 (Oberon) silicon + salvaged enterprise hardware (multiple Tesla V100s, water cooled, unified memory, etc.)
+  A mad-scientist budget AI/Gaming workstation built from PS5 (Oberon) silicon + salvaged enterprise hardware (multiple Tesla V100 SXM2 GPUs, water cooled, unified + HBM memory).
 
 - **[Shell++](https://github.com/lloydshare/Shell-Plus-Plus)**  
   An early-stage modern command prompt / shell replacement for Windows, written in C#.
@@ -41,4 +43,4 @@ Over **30 years** building, managing, and optimizing complex technology systems 
 
 ---
 
-*Currently based somewhere on Earth • 2026*
+*Currently based on Earth • 2026*
