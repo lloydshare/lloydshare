@@ -30,7 +30,7 @@ Now Iâ€™m combining that deep industry knowledge with hands-on maker projects â€
 
 ### Currently Working On
 
-- Developing the AGX Oberon build
+- Developing the AGX Oberon project
 - Developing Shell++ into a truly usable daily driver
 - Documenting everything so others can follow along
 
