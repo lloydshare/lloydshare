@@ -1,16 +1,44 @@
-## Hi there 👋
+# Lloyd Share 👋
 
-<!--
-**lloydshare/lloydshare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Hardware & Software Developer | Telecoms & Database Expert | High-Level Management**
 
-Here are some ideas to get you started:
+Over **30 years** building, managing, and optimizing complex technology systems — from enterprise telecom networks and large-scale databases to cutting-edge AI in financial services sector.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Current Projects
+
+- **[AGX Oberon](https://github.com/lloydshare/AGX-Oberon)**  
+  A mad-scientist budget AI/Gaming workstation built from PS5 (Oberon) silicon + salvaged enterprise hardware (multiple Tesla V100s, water cooled, unified memory, etc.)
+
+- **[Shell++](https://github.com/lloydshare/Shell-Plus-Plus)**  
+  An early-stage modern command prompt / shell replacement for Windows, written in C#.
+
+---
+
+### What's going on here
+
+- Turning console/server scrap into powerful AI workstations
+- Low-level systems programming and custom shells
+- Local LLMs and high-performance computing on a budget
+- Hardware modding, power delivery, and cooling solutions
+- Making computing more accessible and fun and much more.
+
+---
+
+### Currently Working On
+
+- Developing the AGX Oberon build
+- Developing Shell++ into a truly usable daily driver
+- Documenting everything so others can follow along
+
+---
+
+### Let's Connect
+
+- YouTube: [Lloyd Share](https://www.youtube.com/@lloydshare)  
+- GitHub: [github.com/lloydshare](https://github.com/lloydshare)
+
+---
+
+*Currently based somewhere on Earth • 2026*
