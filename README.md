@@ -2,7 +2,7 @@
 
 **Hardware & Software Developer | Telecoms & Database Expert | High-Level Management**
 
-Over **30 years** building, managing, and optimizing complex technology systems — from enterprise telecom networks and large-scale databases to cutting-edge AI in financial services sector.
+Over **30 years** building, managing, and optimizing complex technology systems — from enterprise telecom networks and large-scale databases to cutting-edge AI in the financial services sector.
 
 Now I’m combining that deep industry knowledge with hands-on maker projects — building weird, powerful, and budget-friendly systems.
 
